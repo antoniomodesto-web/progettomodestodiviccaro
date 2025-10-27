@@ -6,16 +6,20 @@ Modesto Antonio (responsabile del repository)
 
 Davide Diviccaro (collaboratore)
 
+Matteo Piazzolla (collaboratore)
+
 Organizzazione
 
 Per questo progetto ci siamo divisi i compiti in modo semplice ed efficace.
-Modesto ha creato il repository su GitHub e ha invitato Diviccaro come collaboratore. Da lì abbiamo iniziato a lavorare ognuno sulla propria pagina personale, coordinandoci tramite messaggi per stabilire chi dovesse fare il push e in quale ordine. Abbiamo deciso fin da subito di rispettare la regola “uno alla volta”, per evitare conflitti e confusione nel codice.
+Modesto ha creato il repository su GitHub e ha invitato Diviccaro e Piazzolla come collaboratori. Da lì abbiamo iniziato a lavorare ognuno sulla propria pagina personale, coordinandoci tramite messaggi per stabilire chi dovesse fare il push e in quale ordine. Abbiamo deciso fin da subito di rispettare la regola “uno alla volta”, per evitare conflitti e confusione nel codice.
 
 Chi ha fatto cosa
 
 Modesto Antonio: ha creato il repository, la sua pagina personale modesto_antonio.html e la pagina index.html con i link a entrambe le pagine.
 
 Davide Diviccaro: ha realizzato la pagina davide_diviccaro.html e ha contribuito ai test del flusso di lavoro con pull e push.
+
+Matteo Piazzolla: ha realizzato la pagina matteo_piazzolla.html e ha contribuito ai test del flusso di lavoro con pull e push.
 
 Difficoltà e soluzioni
 
